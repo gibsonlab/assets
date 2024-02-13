@@ -1,2 +1,2 @@
-# assets
+# Assets
 assets tag management
